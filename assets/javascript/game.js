@@ -22,7 +22,7 @@ var starWarsArray = [
         audio: "assets/audio/tiefighter.mp3"
     },
     {
-        word: "c3p0",
+        word: "c-3po",
         image1: "assets/images/c3p0-b.png",
         image2: "assets/images/c3p0.png",
         audio: "assets/audio/tiefighter.mp3"
@@ -43,6 +43,60 @@ var starWarsArray = [
         word: "hansolo",
         image1: "assets/images/han-b.png",
         image2: "assets/images/han.png",
+        audio: "assets/audio/tiefighter.mp3"
+    },
+    {
+        word: "princessleia",
+        image1: "assets/images/leia-b.png",
+        image2: "assets/images/leia.png",
+        audio: "assets/audio/tiefighter.mp3"
+    },
+    {
+        word: "lightsaber",
+        image1: "assets/images/lightsaber-b.png",
+        image2: "assets/images/lightsaber.png",
+        audio: "assets/audio/tiefighter.mp3"
+    },
+    {
+        word: "lukeskywalker",
+        image1: "assets/images/luke-b.png",
+        image2: "assets/images/luke.png",
+        audio: "assets/audio/tiefighter.mp3"
+    },
+    {
+        word: "r2d2",
+        image1: "assets/images/r2d2-b.png",
+        image2: "assets/images/r2d2.png",
+        audio: "assets/audio/tiefighter.mp3"
+    },
+    {
+        word: "stardestroyer",
+        image1: "assets/images/stardestroyer-b.png",
+        image2: "assets/images/stardestroyer.png",
+        audio: "assets/audio/tiefighter.mp3"
+    },
+    {
+        word: "stormtrooper",
+        image1: "assets/images/stormtrooper-b.png",
+        image2: "assets/images/stormtrooper.png",
+        audio: "assets/audio/tiefighter.mp3"
+    },
+    {
+        word: "darthvader",
+        image1: "assets/images/vader-b.png",
+        image2: "assets/images/vader.png",
+        audio: "assets/audio/tiefighter.mp3"
+    },
+    {
+        word: "xwing",
+        image1: "assets/images/xwing-b.png",
+        image2: "assets/images/xwing.png",
+        audio: "assets/audio/tiefighter.mp3"
+    },
+    {
+        word: "ywing",
+        image1: "assets/images/ywing-b.png",
+        image2: "assets/images/ywing.png",
         audio: "assets/audio/tiefighter.mp3"
     }]
 

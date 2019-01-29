@@ -31,10 +31,10 @@ p {
 .innerOverlay {
     position: absolute;
     height: 75%;
-    right: 5%;
+    right: 50%;
     bottom: 50%;
-    top: 5%;
-    left: 10%;
+    top: 10%;
+    left: 5%;
 }
 
 h5, h6 {
